@@ -15,7 +15,7 @@ const users = [
 
 const siteConfig = {
   title: 'Cohousing' /* title for your website */,
-  tagline: 'A website for testing',
+  tagline: 'Cohousing is currently being developed. Stay tuned.',
   url: 'https://www.cohousing.nu' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -40,14 +40,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/coorporative.svg',
-  footerIcon: 'img/coorporative.svg',
+  headerIcon: 'img/cohousing.svg',
+  footerIcon: 'img/cohousing.svg',
   favicon: 'img/favicon.png',
 
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#FA6904',
+    secondaryColor: '#FF0000',
   },
 
   /* custom fonts for website */
